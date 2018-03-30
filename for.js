@@ -1,3 +1,8 @@
-for (var i = 1; i <= 12; i++) {
-    console.log(i + "月");
-}
+(function () {
+    'use strict';
+
+    for (var i = 1; i <= 12; i++) {
+        console.log(i + "月");
+    }
+
+})();
