@@ -6,7 +6,7 @@ for文
 
 ## コード
 ```
-(function () {
+(function() {
     'use strict';
 
     for (var i = 1; i <= 12; i++) {
